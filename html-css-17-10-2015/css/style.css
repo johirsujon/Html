@@ -1,0 +1,58 @@
+
+*{margin: 0px;
+    padding: 0px;
+}
+.header{background: #002F2F;}
+.header-logo{
+            text-align: left;
+            max-width: 100%;}
+.header-logo h1{align-self: auto; color: azure}
+
+.header-signup{padding-left: 80%; 
+               max-width: 20%;}
+.header-signup a{ color: white;
+                 padding-right: 20px;
+                  text-decoration: none}
+.header-signup a:hover{color: bisque}
+
+.container{
+    
+    max-width: 100%;
+     margin: 1px; 
+     padding: 0px;
+     margin: auto;}
+
+nav{height: 50px; 
+    background-color: cadetblue;}
+
+nav ul{list-style: none; 
+    text-align: center;
+margin: auto;}
+
+nav ul a{float: left; 
+    text-decoration: none;
+    color:#2F343A;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    line-height: 50px}
+nav ul a:hover{background-color: #BFD8D9}
+
+section{float: left; width: 71%;
+    min-height: 600px;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: url(../images/paper.gif) }
+p{text-align: justify; }
+aside{min-height: 600px; 
+      background: url(../images/image1.gif);
+}
+
+
+
+aside .social{padding-left: 76%}
+
+.contact{background-color: cadetblue; padding-left: 10%}
+.copy{background-color:#002F2F; text-align: center; color: floralwhite}
+ }
+.admin{padding-left: 50%; float: right}
